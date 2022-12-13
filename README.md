@@ -4,3 +4,6 @@ good
 project
 go to moon
 goodluck
+hello
+newday
+goodday
