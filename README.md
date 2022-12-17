@@ -7,3 +7,5 @@ goodluck
 hello
 newday
 goodday
+new day
+go to moon
