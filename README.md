@@ -9,3 +9,5 @@ newday
 goodday
 new day
 go to moon
+good day
+good dog
